@@ -7,18 +7,13 @@
 [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15)
 
 ---
-[Olympic Games Dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
+[Olympic Games Dataset](https://github.com/Dimitrov-S-Dev-Python/Olympic_Games_PBI/blob/master/1.Set_Up/olympic_games.bak)
 
 ---
 [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 
 ---
-[Update SQL Data Script](https://github.com/Dimitrov-S-Dev-Python/Sales_Analysis_PBI/blob/master/1.Set_Up/Update_Database.sql)
 
----
-[Sent Over Data - Sales Budget](https://github.com/Dimitrov-S-Dev-Python/Sales_Analysis_PBI/blob/master/1.Set_Up/SalesBudget.xlsx)
-
----
 ## 2.Business Request & Demand Overview
 [Business Request & Demand Overview](https://github.com/Dimitrov-S-Dev-Python/Sales_Analysis_PBI/blob/master/2.Business%20Request%20%26%20Demand%20Overview/Business%20Demand%20Overview%20%26%20User%20Stories%20(Filled%20Out).docx)
 
