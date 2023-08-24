@@ -1,4 +1,4 @@
-# <p align="center"> ![alt text](https://github.com/Dimitrov-S-Dev-Python/Sales_Analysis_PBI/blob/master/sql.png) <p>
+# <p align="center"> ![alt text](https://github.com/Dimitrov-S-Dev-Python/Olympic_Games_PBI/blob/master/sql.png) <p>
 # Project Description
 ## 1.Set Up
 [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
@@ -7,7 +7,7 @@
 [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15)
 
 ---
-[AdventureWorks DBs 2019](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
+[Olympic Games Dataset](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
 
 ---
 [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
