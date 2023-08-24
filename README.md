@@ -7,7 +7,7 @@
 [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15)
 
 ---
-[Olympic Games Dataset](https://github.com/Dimitrov-S-Dev-Python/Olympic_Games_PBI/blob/master/1.Set_Up/olympic_games.bak)
+[Olympic Games Dataset](https://github.com/Dimitrov-S-Dev-Python/Olympic_Games_PBI/blob/master/1.Set%20Up/olympic_games.bak)
 
 ---
 [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
