@@ -19,7 +19,7 @@
 
 ---
 ## 3.Data Cleaning & Transformation
-[Data Cleaning & Transformation](https://github.com/Dimitrov-S-Dev-Python/Sales_Analysis_PBI/tree/master/3.Data%20Cleaning_%26_Transformation)
+[Data Cleaning & Transformation](https://github.com/Dimitrov-S-Dev-Python/Olympic_Games_PBI/blob/master/3.Data%20Cleaning%20%26%20Transformation/DM_Olympic_Games.sql)
 
 ---
 ## 4.Creating Dashboards
